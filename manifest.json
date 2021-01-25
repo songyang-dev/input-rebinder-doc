@@ -1,0 +1,530 @@
+{
+  "sitemap": {
+    "fileOptions": {
+      "api/*": {
+        "baseUrl": "https://www.github.com/XsongyangX/input-rebinder/",
+        "changefreq": "daily"
+      }
+    },
+    "baseUrl": "https://www.github.com/XsongyangX/input-rebinder/",
+    "changefreq": "weekly"
+  },
+  "homepages": [],
+  "source_base_path": "C:/Users/Song/Documents/Unity/Input Rebind/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      },
+      "is_incremental": false
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.ActionMapButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.ActionMapButton.html",
+          "hash": "9fa0ZdfoHfejBkA3Ng0s5Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.ActionMapContent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.ActionMapContent.html",
+          "hash": "o55VzqQTCzHxgWhglXGV6A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.ActionMapDisplayScroll.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.ActionMapDisplayScroll.html",
+          "hash": "rKeeqHQjpVlcimC9EPA0Uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.ActionMapScroll.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.ActionMapScroll.html",
+          "hash": "0quIMX9pHgxdVSr8zMzavQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.BindingPair.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.BindingPair.html",
+          "hash": "tIG65BnYI6hUzK6KoMvBHg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.InputRebinderAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.InputRebinderAction.html",
+          "hash": "inK+GOz+anYC4Dgpsx0xSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.InputRebinderBinding.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.InputRebinderBinding.html",
+          "hash": "UFC8T2yTvh9zuFPZzsTyLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.InputRebinderCanvas.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.InputRebinderCanvas.html",
+          "hash": "BncSeZTtDH7SBq8NSO9Jxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.InputRebinderMain.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.InputRebinderMain.html",
+          "hash": "BiJueDSaD2sNu5FW+dHUww=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/InputRebinder.Runtime.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/InputRebinder.Runtime.html",
+          "hash": "NIYIhUOSmPgdwja0dW7Xmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "ORPsJU0XfXNrIzdWJPKGtQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "TjKoyTuJc2Hd2twI7hjwQw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/Add_Functionality.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/Add_Functionality.html",
+          "hash": "sYxh5UFFt418h0LLNmNHCw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/Customize_Appearance.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/Customize_Appearance.html",
+          "hash": "4HcSDdBQbeRCPbuGdfmbVA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/Getting_Started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/Getting_Started.html",
+          "hash": "yGp081zbOeQBgJ5q2vC9jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/How_to.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/How_to.html",
+          "hash": "zHLjrBP0O9OQ59EEZBxpDQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/Ignore_Actions.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/Ignore_Actions.html",
+          "hash": "duTpUDUUm7Tdoe3uYPGDpw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html",
+          "hash": "vqfScx6Y5CHM2JW60Ahm4A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/action_description.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/action_description.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/actions_pairs_hierarchy.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/actions_pairs_hierarchy.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/analysis.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/analysis.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/analysis_all_selected.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/analysis_all_selected.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/binding_background.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/binding_background.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/bindings_in_pair.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/bindings_in_pair.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/close_button.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/close_button.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/deployed_prefab.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/deployed_prefab.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/deselect_action.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/deselect_action.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/deselect_map.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/deselect_map.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/deselect_ui.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/deselect_ui.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/empty_editor_window.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/empty_editor_window.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/example_controls.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/example_controls.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/generated_prefab_location.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/generated_prefab_location.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/moved_action.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/moved_action.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/prefab_templates.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/prefab_templates.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/scene_hierarchy.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/scene_hierarchy.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/select_all_pairs.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/select_all_pairs.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/select_inputactions_file.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/select_inputactions_file.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "resources/tools_inputrebinder.png",
+      "output": {
+        "resource": {
+          "relative_path": "resources/tools_inputrebinder.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "BPG197keFtX3cMMwSuP+oQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot build incrementally because config changed.",
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0,
+        "full_build_reason_code": "ConfigChanged"
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 6,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 10,
+          "skipped_file_count": 0
+        },
+        "ResourceDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor ResourceDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": false,
+        "details": "Cannot support incremental post processing, the reason is: should not trace intermediate info.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
