@@ -2,11 +2,11 @@
   "sitemap": {
     "fileOptions": {
       "api/*": {
-        "baseUrl": "https://www.github.com/XsongyangX/input-rebinder/",
+        "baseUrl": "https://www.github.com/XsongyangX/input-rebinder-doc/",
         "changefreq": "daily"
       }
     },
-    "baseUrl": "https://www.github.com/XsongyangX/input-rebinder/",
+    "baseUrl": "https://www.github.com/XsongyangX/input-rebinder-doc/",
     "changefreq": "weekly"
   },
   "homepages": [],
@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapButton.html",
-          "hash": "9fa0ZdfoHfejBkA3Ng0s5Q=="
+          "hash": "xPECcjaR7SY0zwxd5zVzBA=="
         }
       },
       "is_incremental": false,
@@ -40,7 +40,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapContent.html",
-          "hash": "o55VzqQTCzHxgWhglXGV6A=="
+          "hash": "sqRZParm77H+27uQH+jOUg=="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapDisplayScroll.html",
-          "hash": "rKeeqHQjpVlcimC9EPA0Uw=="
+          "hash": "QwN9jWXzVTOO/DWvaa5WOw=="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapScroll.html",
-          "hash": "0quIMX9pHgxdVSr8zMzavQ=="
+          "hash": "boICGDqlgbdhUoNb+r6Jgw=="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.BindingPair.html",
-          "hash": "tIG65BnYI6hUzK6KoMvBHg=="
+          "hash": "V0Xkyzi/uiF03C8IKvkVxQ=="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderAction.html",
-          "hash": "inK+GOz+anYC4Dgpsx0xSg=="
+          "hash": "WIJwr5JGRBBbnzJ5sXzVBw=="
         }
       },
       "is_incremental": false,
@@ -100,7 +100,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderBinding.html",
-          "hash": "UFC8T2yTvh9zuFPZzsTyLg=="
+          "hash": "VyLc/g1ZxKkpk8n/J5OI3w=="
         }
       },
       "is_incremental": false,
@@ -112,7 +112,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderCanvas.html",
-          "hash": "BncSeZTtDH7SBq8NSO9Jxg=="
+          "hash": "DqQngtbUiKxIivR3h1rqvg=="
         }
       },
       "is_incremental": false,
@@ -124,7 +124,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderMain.html",
-          "hash": "BiJueDSaD2sNu5FW+dHUww=="
+          "hash": "Q2zlmAH4BSNlBOQKnzXx5A=="
         }
       },
       "is_incremental": false,
@@ -136,7 +136,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.html",
-          "hash": "NIYIhUOSmPgdwja0dW7Xmg=="
+          "hash": "2UF3gOpxT6AI2bYqP3q1MQ=="
         }
       },
       "is_incremental": false,
@@ -160,7 +160,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "TjKoyTuJc2Hd2twI7hjwQw=="
+          "hash": "XVGR0hlknyT+HSbWRRdQoA=="
         }
       },
       "is_incremental": false,
@@ -172,7 +172,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/Add_Functionality.html",
-          "hash": "sYxh5UFFt418h0LLNmNHCw=="
+          "hash": "F7Jd2MbeU/QXP/XDj7mgVQ=="
         }
       },
       "is_incremental": false,
@@ -184,7 +184,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/Customize_Appearance.html",
-          "hash": "4HcSDdBQbeRCPbuGdfmbVA=="
+          "hash": "7QG0VgB1SRuKHdobJILToA=="
         }
       },
       "is_incremental": false,
@@ -196,7 +196,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/Getting_Started.html",
-          "hash": "yGp081zbOeQBgJ5q2vC9jA=="
+          "hash": "FeDAgcxx5y0ptXiLUtfxCg=="
         }
       },
       "is_incremental": false,
@@ -208,7 +208,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/How_to.html",
-          "hash": "zHLjrBP0O9OQ59EEZBxpDQ=="
+          "hash": "KFrn4khTUiGmIIVxpZWpbQ=="
         }
       },
       "is_incremental": false,
@@ -220,7 +220,7 @@
       "output": {
         ".html": {
           "relative_path": "manual/Ignore_Actions.html",
-          "hash": "duTpUDUUm7Tdoe3uYPGDpw=="
+          "hash": "0QaJXLgLGzOhI4TbCQtokw=="
         }
       },
       "is_incremental": false,
