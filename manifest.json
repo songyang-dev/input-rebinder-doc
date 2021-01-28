@@ -28,7 +28,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapButton.html",
-          "hash": "xPECcjaR7SY0zwxd5zVzBA=="
+          "hash": "GzDxK7LbaT4IkHPex1J3yQ=="
         }
       },
       "is_incremental": false,
@@ -40,7 +40,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapContent.html",
-          "hash": "sqRZParm77H+27uQH+jOUg=="
+          "hash": "pgp682XGbMtq4SPXgEsdNQ=="
         }
       },
       "is_incremental": false,
@@ -52,7 +52,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapDisplayScroll.html",
-          "hash": "QwN9jWXzVTOO/DWvaa5WOw=="
+          "hash": "juQKB32gyBQqTanzB13f7A=="
         }
       },
       "is_incremental": false,
@@ -64,7 +64,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.ActionMapScroll.html",
-          "hash": "boICGDqlgbdhUoNb+r6Jgw=="
+          "hash": "ur5EAk1dWUIX2sWvfFPPMg=="
         }
       },
       "is_incremental": false,
@@ -76,7 +76,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.BindingPair.html",
-          "hash": "V0Xkyzi/uiF03C8IKvkVxQ=="
+          "hash": "Di9CxnbD20jf0I+EcwybvA=="
         }
       },
       "is_incremental": false,
@@ -88,7 +88,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderAction.html",
-          "hash": "WIJwr5JGRBBbnzJ5sXzVBw=="
+          "hash": "UPH5uKZujdmczS2GHuKE6w=="
         }
       },
       "is_incremental": false,
@@ -100,7 +100,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderBinding.html",
-          "hash": "VyLc/g1ZxKkpk8n/J5OI3w=="
+          "hash": "zDebTfZTh/dWfhIsj/IpdQ=="
         }
       },
       "is_incremental": false,
@@ -112,7 +112,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderCanvas.html",
-          "hash": "DqQngtbUiKxIivR3h1rqvg=="
+          "hash": "waj2AUVfOw138ElzktVZjQ=="
         }
       },
       "is_incremental": false,
@@ -124,7 +124,7 @@
       "output": {
         ".html": {
           "relative_path": "api/InputRebinder.Runtime.InputRebinderMain.html",
-          "hash": "Q2zlmAH4BSNlBOQKnzXx5A=="
+          "hash": "ol1rda65o6ByfJ1OiIF9Ng=="
         }
       },
       "is_incremental": false,
@@ -474,25 +474,23 @@
   "incremental_info": [
     {
       "status": {
-        "can_incremental": false,
-        "details": "Cannot build incrementally because config changed.",
+        "can_incremental": true,
         "incrementalPhase": "build",
         "total_file_count": 0,
-        "skipped_file_count": 0,
-        "full_build_reason_code": "ConfigChanged"
+        "skipped_file_count": 0
       },
       "processors": {
         "ConceptualDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 6,
-          "skipped_file_count": 0
+          "skipped_file_count": 6
         },
         "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
+          "can_incremental": true,
           "incrementalPhase": "build",
           "total_file_count": 10,
-          "skipped_file_count": 0
+          "skipped_file_count": 1
         },
         "ResourceDocumentProcessor": {
           "can_incremental": false,
